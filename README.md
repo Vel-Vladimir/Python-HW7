@@ -8,7 +8,7 @@
 
 Переходимо в папку с пакетом (комманда в Windows: "cd C:\Users")
 
-Виконуємо комманду:  С:\Users python3 -m pip install clean_folder-1.tar.gz
+Виконуємо комманду "python3 -m pip install clean_folder-1.tar.gz": С:\Users python3 -m pip install clean_folder-1.tar.gz
 
 Після встановлення пакету, в терміналі виконуємо команду clean-folder
 
